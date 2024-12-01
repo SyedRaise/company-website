@@ -1,0 +1,8 @@
+#Frontend team reviews files in the fronted directory
+/frontend/ @SyedRaise
+
+#Database team reviews files in the database directory
+/database/ @SyedRaise
+
+#Testing team reviews files in the test directory
+/test/ @SyedRaise
